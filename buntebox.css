@@ -1,0 +1,17 @@
+
+h1{
+
+    background-color: deeppink;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 1000;
+    height: 80px;
+}
+h3{
+    background-color: gold;
+    text-align: left;
+    margin-left: 250px;
+    height: 100px;
+    left: 350px;
+    right: 350px;
+}
